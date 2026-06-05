@@ -1,7 +1,7 @@
 # Restaurant Management & Stock Control Automation
 ## Workflow Overview
 
-![Workflow Overview](images/workflow-overview.png)
+![Workflow Overview](images/Screenshot 2026-06-05 015950.png)
 
 ## Overview
 
