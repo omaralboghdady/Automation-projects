@@ -1,4 +1,7 @@
 # Restaurant Management & Stock Control Automation
+## Workflow Overview
+
+![Workflow Overview](images/workflow-overview.png)
 
 ## Overview
 
