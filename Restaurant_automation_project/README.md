@@ -2,7 +2,7 @@
 
 ## Overview
 
-![workflow](/images/overview.png)
+![Workflow Overview](images/overview.png)
 
 This project is an automation workflow designed to support restaurant operations by simplifying order management and inventory control. It helps employees process customer orders efficiently while ensuring that stock levels remain accurate and up to date.
 
